@@ -1,0 +1,93 @@
+excel file -> one work book
+multiple sheet available --
+
+
+Appache POI component
+Workbook
+sheet
+Row
+Cell.
+
+
+[
+  {
+    "first_name": "Carol",
+    "last_name": "Lee",
+    "email": "carol.lee@example.com",
+    "phone": "555-8765",
+    "salary": 50000.00,
+    "department": "HR"
+  },
+  {
+    "first_name": "James",
+    "last_name": "Anderson",
+    "email": "james.anderson@example.com",
+    "phone": "555-2345",
+    "salary": 75000.00,
+    "department": "IT"
+  },
+  {
+    "first_name": "Maria",
+    "last_name": "Gonzalez",
+    "email": "maria.gonzalez@example.com",
+    "phone": "555-6789",
+    "salary": 62000.00,
+    "department": "Marketing"
+  },
+  {
+    "first_name": "Liam",
+    "last_name": "Brown",
+    "email": "liam.brown@example.com",
+    "phone": "555-1122",
+    "salary": 58000.00,
+    "department": "Finance"
+  },
+  {
+    "first_name": "Olivia",
+    "last_name": "Martinez",
+    "email": "olivia.martinez@example.com",
+    "phone": "555-3344",
+    "salary": 53000.00,
+    "department": "HR"
+  },
+  {
+    "first_name": "William",
+    "last_name": "Chen",
+    "email": "william.chen@example.com",
+    "phone": "555-5566",
+    "salary": 72000.00,
+    "department": "IT"
+  },
+  {
+    "first_name": "Sophia",
+    "last_name": "Davis",
+    "email": "sophia.davis@example.com",
+    "phone": "555-7788",
+    "salary": 61000.00,
+    "department": "Sales"
+  },
+  {
+    "first_name": "Noah",
+    "last_name": "Patel",
+    "email": "noah.patel@example.com",
+    "phone": "555-8899",
+    "salary": 59000.00,
+    "department": "Support"
+  },
+  {
+    "first_name": "Isabella",
+    "last_name": "Nguyen",
+    "email": "isabella.nguyen@example.com",
+    "phone": "555-9900",
+    "salary": 67000.00,
+    "department": "Product"
+  },
+  {
+    "first_name": "Ethan",
+    "last_name": "Wright",
+    "email": "ethan.wright@example.com",
+    "phone": "555-2211",
+    "salary": 64000.00,
+    "department": "Engineering"
+  }
+]
